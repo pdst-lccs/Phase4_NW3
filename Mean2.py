@@ -9,10 +9,8 @@ def arithmetic_mean(L):
     total = 0 # running total of values in L
 
     # Now loop over the list
-#    for v in L:
-#        total = total + v # running total
-
-    total = sum(L)
+    for v in L:
+        total = total + v # running total
     
     # Divide by the total by the number of values in L
     return total/len(L)
