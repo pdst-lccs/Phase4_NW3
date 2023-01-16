@@ -36,7 +36,7 @@ print("Mode is", mode)
 # Modify the code so that it displays the frequency of the mode
 # The statement list(set(L)) returns a list of unique elements in L. Use this information to shorten the code
 # The program works if the list has a single mode. Modify the code so that it ....
-# - works if there is no mode e.g. L = [18, 16, 17, 21, 19, 16, 22]
+# - works if there is no mode e.g. L = [18, 16, 17, 21, 19, 22]
 # - works if there are multiple modes e.g. L = [18, 16, 17, 18, 17, 18, 17]
 # Discuss how the code could be made more modular
 # Test each little change as you go
